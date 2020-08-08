@@ -8,3 +8,17 @@ body{
     background-size: cover;
     font-family: sans-serif;
 }
+.container{
+    background: rgb(0,100,0);
+    text-align: center;
+}
+.container ul{
+    display: inline-flex;
+    list-style: none;
+    color: seashell;
+}
+.container ul li{
+    width: 120px;
+    padding: 15px;
+    margin: 15px;
+}
